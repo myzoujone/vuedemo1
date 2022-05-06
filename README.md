@@ -30,3 +30,5 @@ npm run lint
 可以点击删除。
 也可以是勾选多个，然后批量删除。
 勾选的数量和总数在最后一行有显示。
+### 效果图
+![效果图](https://user-images.githubusercontent.com/23656961/167065436-dea1be31-b071-4892-be78-23f54a07d98f.png)
